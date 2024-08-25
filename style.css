@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-size: medium;
+}
+#A{
+  border: 1px solid black;
+  margin-left: 170px;
+  margin-right: 170px;
+  background-color: #f5f7e6;
+}
+#B{
+   margin-right: 30px;
+   text-align: right;
+}
+#C{
+  margin-top: 20px;
+}
+#D{
+  margin-bottom: 20px;
+}
+table, th, td {
+  margin-top: 8px;
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding-left: 35px;
+  padding-right: 35px;
+}
+#E{
+  place-items:;
+  margin-top:10px;
+  display: flex;
+  justify-content: center;
+}
+#in1{
+  margin-left: 20px;
+  border: 1px solid black;
+  display: flex;
+  margin-right: 200px;
+  padding:6px;
+}
+#in2{
+  margin-left: 20px;
+  border: 1px solid black;
+  display: flex;
+  justify-content: center;
+  padding:6px;
+}
+#name{
+  margin-top:15px;
+  text-align: left;
+  margin-left:120px;
+  margin-right: 60px;
+}
+.n{
+  display: flex;
+  margin-left:5px;
+}
+#F{
+  display: flex;
+}
+#caste{
+  
+  text-align: left;
+  margin-left:120px;
+}
+input[type="radio"]{
+  margin-left: 10px;
+  margin-top:5px;
+}
+#G,#I, #J, #K,#L, #M{
+  display:flex;
+  margin-top: 20px;
+  margin-left:120px;
+}
+#H{
+  margin-top: 20px;
+  display:flex;
+  text-align: left;
+  margin-left: 120px;
+}
+#L1, #L2, #L3{
+  text-align: left;
+  display:flex;
+  margin-top: 12px;
+  margin-left:170px;
+}
