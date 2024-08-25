@@ -1,1 +1,1 @@
-<P>College Admission Form template using HTML & CSS</p>
+<P>College Admission Form Template using HTML & CSS</p>
